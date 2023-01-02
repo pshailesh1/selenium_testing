@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="ParallelTest1">
+    <classes>
+      <class name="TestNG_Programs.Chrome_Test"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="ParallelTest2">
+    <classes>
+      <class name="TestNG_Programs.Chrome_Test"/>
+    </classes>
+    </test> <!-- Test -->
+    <test name="ParallelTest3">
+    <classes>
+      <class name="TestNG_Programs.Chrome_Test"/>
+    </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
+
